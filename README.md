@@ -1,7 +1,6 @@
 # Day-Two-task
 use IaC Terrafrom to build the following resource besides requirement specifications:
 
-Create a diagram of this deployment.
 
 Use S3 to store Terraform statefile using "erakiterrafromstatefiles" bucket
 
